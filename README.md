@@ -291,13 +291,15 @@ MIT License - feel free to use this in your projects!
 
 ## 👤 Author
 
+**Raphael Freitas** - [LinkedIn Profile](https://www.linkedin.com/in/raphael-freitasdev/)
+
 Created as a reference implementation for secure token management in multi-tenant architectures.
 
 ---
 
 **⭐ If this helped you, consider giving it a star!**
 
-**💬 Questions?** Open an issue or reach out on LinkedIn.
+**💬 Questions?** Open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/raphael-freitasdev/).
 
 **🔗 Related Articles:**
-- [LinkedIn Post: KMS + CloudTrail for Token Auditing](https://linkedin.com/in/yourprofile)
+- [LinkedIn Profile](https://www.linkedin.com/in/raphael-freitasdev/)
